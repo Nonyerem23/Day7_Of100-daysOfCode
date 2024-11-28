@@ -20,10 +20,10 @@ if anime == "One piece":
       bounty = input("What was her first bounty then? ")
       if bounty == "Ummm...":
         print("You must be a fake fan!")
-      elif bounty == "16,000,000 berry":
-        print("You are a true fan!")
-      else:
-        print("See! Fake One piece fan!")
+elif anime == "Naruto":
+      print("You are a true fan!")
+else:
+      print("See! Fake fan!")
    
         
         
